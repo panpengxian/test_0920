@@ -1,5 +1,5 @@
 # Esp32_Motor_Control
-
+# 我是test1111
 # 介绍
 本项目为基于ESP32的三相永磁同步电机的控制电路，目前主要包括MCU、PMIC、Predriver、Inverter
 MCU为Espressif的ESP32-WROOM模组；
@@ -9,7 +9,7 @@ MCU为Espressif的ESP32-WROOM模组；
 
 # 硬件组成
 #### L9907简介
-
+ 
 SPI通信接口：
 L9907的SPI校验为奇校验，即当传输数据中有奇数个‘1’时，校验位为0；
 L9907的时钟频率为8MHz；SPI设置为CHPA=1，CPOL=0，数据长度16bit；SPI传输为MSB first；
