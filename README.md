@@ -1,5 +1,7 @@
 # Esp32_Motor_Control
-# 我是test1111
+
+
+# M
 # 介绍
 本项目为基于ESP32的三相永磁同步电机的控制电路，目前主要包括MCU、PMIC、Predriver、Inverter
 MCU为Espressif的ESP32-WROOM模组；
